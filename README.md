@@ -70,6 +70,15 @@ Contribuições são bem-vindas! Para contribuir, siga os passos abaixo:
 4. Faça push para a branch (`git push origin feature/nova-feature`)
 5. Abra um Pull Request
 
+## Códigos de Segurança por Categoria
+
+- Front-End: `2121`
+- Data Science: `2222`
+- Mobile: `1213`
+- Back-End: `2727`
+- One: `0015`
+- Programa One: `002`
+
 ## Licença
 
 Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
