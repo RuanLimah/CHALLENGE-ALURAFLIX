@@ -54,6 +54,12 @@ Para executar o projeto localmente, siga os passos abaixo:
     http://localhost:3000
     ```
 
+## Deploy
+
+Você pode acessar a versão deployada da aplicação no seguinte link:
+
+[Deploy do Aluraflix](https://challenge-aluraflix-2vnvh7vkc-ruanlimahs-projects.vercel.app/)
+
 ## Link para o Trello
 
 Para acompanhar o progresso do projeto, acessar o quadro no Trello:
@@ -77,7 +83,7 @@ Contribuições são bem-vindas! Para contribuir, siga os passos abaixo:
 - Mobile: `1213`
 - Back-End: `2727`
 - One: `0015`
-- Programa One: `002`
+- Programa One: `0002`
 
 ## Licença
 
