@@ -31,7 +31,7 @@ Para executar o projeto localmente, siga os passos abaixo:
 
 1. Clone este repositório:
     ```sh
-    git clone https://github.com/seu-usuario/aluraflix.git
+    git clone git@github.com:RuanLimah/CHALLENGE-ALURAFLIX.git
     ```
 
 2. Navegue até o diretório do projeto:
